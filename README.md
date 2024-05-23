@@ -29,11 +29,11 @@
 #### You can also find me on 🌐Socials:
 
 [<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+<!-- [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][Tiktok]
-[<img align="left" alt="Hung_Tran | Facebook" width="30px" src="https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.8562-6/422083590_1312812522712666_5569536549360094726_n.png?_nc_cat=111&ccb=1-7&_nc_sid=f537c7&_nc_ohc=dnu7skS7v0gQ7kNvgEUpjDd&_nc_ht=scontent.fsgn8-4.fna&oh=00_AYDakvNesAhnvXSwucxyW3xF2gvWu9JQkW8c05y5ybZIbQ&oe=66555CFC" />][Facebook]
+[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][Tiktok] -->
+[<img align="center" alt="Hung_Tran | Facebook" width="30px" src="https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.8562-6/422083590_1312812522712666_5569536549360094726_n.png?_nc_cat=111&ccb=1-7&_nc_sid=f537c7&_nc_ohc=dnu7skS7v0gQ7kNvgEUpjDd&_nc_ht=scontent.fsgn8-4.fna&oh=00_AYDakvNesAhnvXSwucxyW3xF2gvWu9JQkW8c05y5ybZIbQ&oe=66555CFC" />][Facebook]
                                                                                                                                                                        
 
 <br>
@@ -48,8 +48,7 @@
 [Facebook]: https://www.facebook.com/hunghit.tran/
 
 ### 🤩GitHub Stats🤩 :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" /> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact" alt="tph-kds" /></p>
 
