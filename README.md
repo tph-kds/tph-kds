@@ -22,7 +22,7 @@
 ### My Hobbies and interests:
 * Coding
 * Traveling
-* Reading book
+* Reading Book
 * Learning Language
 
 
@@ -41,10 +41,10 @@
 <hr>
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/tran-phi-hung
-[twitter]: 
-[Instagram]: 
-[YouTube]: 
-[Tiktok]: 
+<!-- [twitter]:  -->
+<!-- [Instagram]:  -->
+<!-- [YouTube]:  -->
+<!-- [Tiktok]:  -->
 [Facebook]: https://www.facebook.com/hunghit.tran/
 
 ### 🤩GitHub Stats🤩 :
@@ -58,6 +58,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&" alt="tph-kds" /></p>
 
 <p><img align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" /></p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
