@@ -80,7 +80,7 @@
 
   <p>
     <!-- Most Used Languages -->
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&theme=radical" alt="tph-kds" style="max-width: 400px; height:100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&theme=radical&card_width=467" alt="tph-kds" style="max-width: 400px; height:100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
     <!-- GitHub Stats -->
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; height:100%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
@@ -91,8 +91,6 @@
   </p>
 
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical&align=center)
 
 ![](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png)
 
