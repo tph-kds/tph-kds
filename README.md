@@ -74,19 +74,16 @@
     <img  align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11&theme=radical" alt="tph-kds" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
-  <!-- Most Used Languages -->
   <p>
+    <!-- Most Used Languages -->
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </p>
-
-  <!-- GitHub Stats -->
-  <p>
+    <!-- GitHub Stats -->
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
   <!-- GitHub Streak -->
   <p>
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img  align="center" style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
 </div>
