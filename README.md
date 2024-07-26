@@ -65,7 +65,7 @@
 <p><img align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" /></p> -->
 
 <!-- <p style="width:80%; height:4px; background: radial-gradient(#08836d, transparent); margin:20px 0;"> -->
-![]([https://your-image-url.com/progress-bar.png](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png))
+![](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png)
 
 </p> 
 
@@ -92,7 +92,7 @@
 
 </div>
 
-![]([https://your-image-url.com/progress-bar.png](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png))
+![](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png)
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h3  align="center"> ✍️Random Dev Quote </h3>
@@ -101,8 +101,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
 
 
-
-![]([https://your-image-url.com/progress-bar.png](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png))
+![](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png)
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h3 align="center">  😂Random Dev Meme </h3>
