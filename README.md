@@ -43,7 +43,7 @@
 <br>
 
 <!-- <hr> -->
-<div style="width: 80%; height: 4px; background: linear-gradient(to right, cyan, red); margin: 20px 0;"></div>
+
 
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/tran-phi-hung
@@ -64,6 +64,7 @@
 
 <p><img align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" /></p> -->
 
+<div style="width: 80%; height: 4px;background: radial-gradient(#08836d, transparent); margin: 20px 0;"></div> 
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h3  align="center"> 🤩GitHub Stats🤩 </h3>
@@ -87,7 +88,7 @@
   </p>
 
 </div>
-<hr style="width: 80%; height: 4px; background: linear-gradient(to right, cyan, red); margin: 20px 0;"></hr>
+<div style="width: 80%; height: 4px;background: radial-gradient(#08836d, transparent); margin: 20px 0;"></div>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h3  align="center"> ✍️Random Dev Quote </h3>
 </div>
@@ -95,7 +96,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
 
 
-<hr style="width: 80%; height: 4px; background: linear-gradient(to right, cyan, red); margin: 20px 0;"></hr>
+<div style="width: 80%; height: 4px;background: radial-gradient(#08836d, transparent); margin: 20px 0;"></div>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h3 align="center">  😂Random Dev Meme </h3>
   <img  align="center" src="https://random-memer.herokuapp.com/" width="512px"/>
