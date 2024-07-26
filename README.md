@@ -31,27 +31,30 @@
 
 #### You can also find me on 🌐Socials:
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-<!-- [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+<!-- [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][]
 [<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 [<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][Tiktok] -->
-[<img align="center" alt="Hung_Tran | Facebook" width="30px" src="https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.8562-6/422083590_1312812522712666_5569536549360094726_n.png?_nc_cat=111&ccb=1-7&_nc_sid=f537c7&_nc_ohc=dnu7skS7v0gQ7kNvgEUpjDd&_nc_ht=scontent.fsgn8-4.fna&oh=00_AYDakvNesAhnvXSwucxyW3xF2gvWu9JQkW8c05y5ybZIbQ&oe=66555CFC" />][Facebook]
+[<img align="left" alt="Hung | Twitter" width="30px" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" />][Twitter]
+[<img align="left" alt="Ins | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="center" alt="Hung_Tran | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" />][Facebook]
                                                                                                                                                                        
 
-<br>
+<be>
 
-<hr>
+<!-- <hr> -->
+<div style="width: 80%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"></div>
+
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/tran-phi-hung
-<!-- [twitter]:  -->
+[Twitter]: https://x.com/?lang=vi
 <!-- [Instagram]:  -->
 <!-- [YouTube]:  -->
 <!-- [Tiktok]:  -->
 [Facebook]: https://www.facebook.com/hunghit.tran/
 
-### 🤩GitHub Stats🤩 :
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" /> </p> -->
+<!--  ### 🤩GitHub Stats🤩 :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" /> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact" alt="tph-kds" /></p>
 
@@ -59,10 +62,44 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&" alt="tph-kds" /></p>
 
-<p><img align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" /></p>
+<p><img align="center" src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" /></p> -->
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <h1> 🤩GitHub Stats🤩 </h1>
+  <!-- Profile views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" style="width: 100px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </p>
+
+  <!-- Most Used Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </p>
+
+  <!-- GitHub Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </p>
+
+  <!-- GitHub Streak -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </p>
+
+  <!-- Visit Count -->
+  <p>
+    <img src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" style="width: 100px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  </p>
+
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+<h1> ✍️Random Dev Quote </h1>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <h1>  😂Random Dev Meme </h1>
+  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
