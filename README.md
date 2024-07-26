@@ -92,6 +92,8 @@
 
 </div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical&align=center)
+
 ![](https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png)
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
