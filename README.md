@@ -35,8 +35,7 @@
 <!-- [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][]
 [<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 [<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][Tiktok] -->
-[<img align="left" alt="Hung | Twitter" width="30px" src="https://github.com/user-attachments/assets/876d67c5-6ee0-487c-bda9-02d55934f06b
-" />][Twitter]
+[<img align="left" alt="Hung | Twitter" width="30px" src="https://github.com/user-attachments/assets/876d67c5-6ee0-487c-bda9-02d55934f06b"/>][Twitter]
 [<img align="left" alt="Ins | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="center" alt="Hung_Tran | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" />][Facebook]
                                                                                                                                                                        
@@ -44,7 +43,7 @@
 <br>
 
 <!-- <hr> -->
-<hr style="width: 80%; height: 4px; background: linear-gradient(to right, cyan, red); margin: 20px 0;"></hr>
+<div style="width: 80%; height: 4px; background: linear-gradient(to right, cyan, red); margin: 20px 0;"></div>
 
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/tran-phi-hung
