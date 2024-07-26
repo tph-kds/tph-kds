@@ -86,8 +86,8 @@
   <!-- GitHub Streak -->
   <p  style="text-align: center;">
         <!-- GitHub Stats -->
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; height:100%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&theme=radical&card_width=494&line_height=30" alt="tph-kds" style="max-width: 400px; border-radius: 10px; height:100%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical&card_width=494&line_height=30" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
 </div>
