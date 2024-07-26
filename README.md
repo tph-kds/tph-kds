@@ -40,15 +40,15 @@
 [<img align="center" alt="Hung_Tran | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/384px-Facebook_icon.svg.png?20220812153731" />][Facebook]
                                                                                                                                                                        
 
-<be>
+<br>
 
 <!-- <hr> -->
-<div style="width: 80%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"></div>
+<hr style="width: 80%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"></hr>
 
 
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/tran-phi-hung
 [Twitter]: https://x.com/?lang=vi
-<!-- [Instagram]:  -->
+[Instagram]:  https://www.instagram.com/
 <!-- [YouTube]:  -->
 <!-- [Tiktok]:  -->
 [Facebook]: https://www.facebook.com/hunghit.tran/
@@ -66,39 +66,41 @@
 
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-  <h1> 🤩GitHub Stats🤩 </h1>
+  <h3> 🤩GitHub Stats🤩 </h3>
   <!-- Profile views -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="tph-kds" style="width: 100px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="tph-kds" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
   <!-- Most Used Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
   <!-- GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
   <!-- GitHub Streak -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&" alt="tph-kds" style="width: 80%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&theme=radical" alt="tph-kds" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
   <!-- Visit Count -->
   <p>
-    <img src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11" alt="tph-kds" style="width: 100px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://visitcount.itsvg.in/api?id=tph-kds&icon=8&color=11&theme=radical" alt="tph-kds" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </p>
 
 </div>
-
+<hr style="width: 80%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"></hr>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-<h1> ✍️Random Dev Quote </h1>
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <h3> ✍️Random Dev Quote </h3>
 </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
 
+
+<hr style="width: 80%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"></hr>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <h1>  😂Random Dev Meme </h1>
   <img src="https://random-memer.herokuapp.com/" width="512px"/>
