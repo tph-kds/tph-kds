@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c46525cc-b5df-4a2a-ba9a-92c87c611684)<h1><<picture>
+
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.gif" alt="😈" width="40" height="40">
 </picture> Hali-halo! Nice to see you.</h1>
