@@ -1,7 +1,10 @@
 
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.gif" alt="😈" width="40" height="40">
-</picture> Hali-halo! Nice to see you.</h1>
+<!--
+<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.webp" type="image/webp">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f608/512.gif" alt="😈" width="40" height="40">
+-->
+<h1> Hali-halo! Nice to see you.</h1>
+
 <h1 align="center">😎 I'm Trần Phi Hùng - Slow Hero '😁</h1>
 <h4 align="center">I'm a Data Scientist - Machine Learning Engineer newbie👻</h4>
 
