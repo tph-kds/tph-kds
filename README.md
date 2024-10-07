@@ -5,8 +5,15 @@
 -->
 <h1> Hali-halo! Nice to see you.</h1>
 
-<h1 align="center">😎 I'm Trần Phi Hùng - Slow Hero '😁</h1>
-<h4 align="center">I'm a Data Scientist - Machine Learning Engineer newbie👻</h4>
+<h1 align="center">😎 I'm Trần Phi Hùng - Glatichero '😁</h1>
+<!-- <h4 align="center">I'm a Data Scientist - Machine Learning Engineer newbie</h4> -->
+
+
+### '🪢' Roles and Expertise 👻:
+* AI Engineer
+* Data Scientist
+* Machine Learning Engineer
+* AI & Data Science Researcher
 
 
 
