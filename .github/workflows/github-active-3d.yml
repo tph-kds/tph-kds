@@ -14,12 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Generate 3D Profile Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@main
-        with:
-          user: ${{ github.repository_owner }}
-          output: output/profile-3d-contrib.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          wget https://github.com/yoshi389111/github-profile-3d-contrib/releases/latest/download/github-profile-3d-contrib_linux_amd64.tar.gz
+          tar xzf github-profile-3d-contrib_linux_amd64.tar.gz
+          chmod +x github-profile-3d-contrib_linux_amd64
+          mkdir -p output
+          ./github-profile-3d-contrib_linux_amd64 -u ${{ github.repository_owner }} -o output/profile-3d-contrib.svg
       - name: Push SVG to output branch
         run: |
           git config --local user.email "actions@github.com"
