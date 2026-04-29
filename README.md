@@ -43,7 +43,7 @@
 
 <h4 align="left">💻 Languages</h4>
 
-<table align="left">
+<table>
 <tr>
 <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
 <td><a href="https://go.dev/" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Golang" width="80" height="80"/></a></td>
@@ -56,7 +56,7 @@
 <div style="clear: both;"></div> 
 
 <h4 align="left">🧠 AI / ML & Data</h4>
-<table align="left">
+<table>
 <tr>
 <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
 <td><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
@@ -66,7 +66,7 @@
 </table>
 
 
-<table align="left">
+<table>
 <tr>
 <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
 <td><a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
@@ -82,7 +82,7 @@
 <div style="clear: both;"></div> 
 
 <h4 align="left">⚙️ MLOps, Cloud & DevOps</h4>
-<table align="left">
+<table>
 <tr>
 <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
 <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a></td>
@@ -91,7 +91,7 @@
 </tr>
 </table>
 
-<table align="left">
+<table>
 <tr>
 <td><a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a></td>
 <td><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></td>
@@ -104,7 +104,7 @@
 
 
 <h4 align="left">🗄️ Tools, Frameworks & Databases</h4>
-<table align="left">
+<table>
 <tr>
 <td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/flask.svg" alt="flask" width="40" height="40"/></a></td>
 <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/postgresql.svg" alt="postgres" width="40" height="40"/></a></td>
@@ -121,7 +121,7 @@
 
 
 <h4 align="left">🤖 LLM & AI Agents</h4>
-<table align="left">
+<table>
 <tr>
 <td><a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a></td>
 <td><a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a></td>
@@ -131,7 +131,7 @@
 </table>
 
 
-<table align="left">
+<table>
 <tr>
 <td><a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a></td>
 <td><a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a></td>
