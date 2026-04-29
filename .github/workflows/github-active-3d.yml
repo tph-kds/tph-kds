@@ -28,14 +28,15 @@ jobs:
 
       - name: Push to Output Branch
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-          mkdir -p output/profile-3d-contrib
-          cp output/github-profile-3d-contrib.* output/profile-3d-contrib/
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "<>"
           git add output/
-          git commit -m "Update 3D contrib SVG" || echo "No changes"
-          git push origin output
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update 3D contrib SVG"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
+            git push origin output
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          REPO: ${{ github.event.repository.name }}
