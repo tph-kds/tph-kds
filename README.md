@@ -208,11 +208,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
 
-<<<<<<< HEAD
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div>
-=======
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
->>>>>>> e9ced60b5224b1d471760d6f08d903396fb34530
