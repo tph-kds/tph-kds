@@ -25,6 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          OUTPUT_FOLDER: output
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
