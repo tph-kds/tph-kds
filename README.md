@@ -60,12 +60,10 @@
 </table>
 
 <table align="left">
-  <tr>
-    <td>
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
+<td><a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 <br/>
@@ -73,41 +71,38 @@
 
 <h4 align="left">⚙️ MLOps, Cloud & DevOps</h4>
 <table align="left">
-  <tr>
-    <td>  
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+<td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a></td>
+<td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+<td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 <table align="left">
-  <tr>
-    <td>  
-      <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
-      <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-      <a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a></td>
+<td><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></td>
+<td><a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a></td>
+<td><a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a></td>
+</tr>
 </table>
 
-
+<br/>
 <br/>
 <br/>
 
 <h4 align="left">🗄️ Tools, Frameworks & Databases</h4>
 <table align="left">
-  <tr>
-    <td>  
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a></td>
+<td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
+<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+<td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 <br/>
@@ -116,24 +111,21 @@
 
 <h4 align="left">🤖 LLM & AI Agents</h4>
 <table align="left">
-  <tr>
-    <td>  
-      <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
-      <a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a>
-      <a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a>
-      <a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a></td>
+<td><a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a></td>
+<td><a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a></td>
+<td><a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a></td>
+<td><a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 
 <table align="left">
-  <tr>
-    <td>  
-      <a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a>
-      <a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a></td>
+<td><a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 
@@ -188,22 +180,16 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <table align="center">
-  <tr>
-    <td>  
-      <a href="https://linkedin.com/in/tran-phi-hung" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-      </a>
-      <a href="https://hob2log.vercel.app/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/>
-      </a>
-      <a href="https://tph-kds.github.io/portfolio/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=80528&format=png&color=000000" alt="Portfolio" width="40" height="40"/>
-      </a>
-      <a href="https://x.com/TranPhiHungDS" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/twitterx.png" alt="X" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td><a href="https://linkedin.com/in/tran-phi-hung" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a></td>
+<td><a href="https://hob2log.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/></a></td>
+<td><a href="https://tph-kds.github.io/portfolio/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=80528&format=png&color=000000" alt="Portfolio" width="40" height="40"/></a></td>
+<td><a href="https://x.com/TranPhiHungDS" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/twitterx.png" alt="X" width="40" height="40"/></a></td>
+</tr>
 </table>
 
 <!-- HORIZONTAL LINE -->
