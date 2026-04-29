@@ -1,6 +1,6 @@
 <!-- HEADER TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hali-halo!+Nice+to+see+you!;Hi+there,+I%27m+Tr%E1%BA%A7n+Phi+H%C3%B9ng+%F0%9F%91%8B;+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%A7%A0;Welcome+to+my+GitHub!&center=true&width=600&height=50&duration=4000&pause=1000&color=00FF7F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hali-halo!+Nice+to+see+you!;Hi+there,+I%27m+Tr%E1%BA%A7n+Phi+H%C3%B9ng+%F0%9F%91%8B;+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Welcome+to+my+GitHub!&center=true&width=600&height=50&duration=4000&pause=1000&color=00FF7F" alt="Typing Animation" />
 </div>
 
 <!-- BADGES -->
@@ -190,7 +190,7 @@
 ![](https://github-immortality.vercel.app/api?username=tph-kds)
 
 
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/tph-kds/tph-kds/output/profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/tph-kds/tph-kds/output/github-profile-3d-contrib.svg" alt="3D Contribution" />
 
 
 </div>
