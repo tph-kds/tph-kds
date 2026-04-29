@@ -20,12 +20,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Generate GitHub Profile 3d Contrib
+      - name: Generate GitHub Profile 3D Contrib
         id: graph
-        uses: yoshi389111/github-profile-3d-contrib@v2
+        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
         with:
-          user: ${{ github.repository_owner }}
-          output: output
+          username: ${{ github.repository_owner }}
+          output: output/profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,17 +37,12 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
           git fetch origin output
           git checkout output || git checkout -b output
-          if ls output/ 2>/dev/null | grep -q .; then
-            git add output/
-            if git diff --staged --quiet; then
-              echo "No new changes"
-            else
-              git commit -m "Update 3D contrib SVG"
-              git push origin output
-            fi
+          git add output/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update 3D contrib SVG"
+            git push origin output
           else
-            echo "No files in output/, action failed to generate SVG"
-            exit 1
+            echo "No changes to commit"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
