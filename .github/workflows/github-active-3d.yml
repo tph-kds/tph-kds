@@ -2,8 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,38 +10,23 @@ permissions:
 
 jobs:
   build:
-    name: Generate 3D Contrib
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v5
-
-      - name: Generate GitHub Profile 3D Contrib
-        id: graph
-        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
+      - uses: actions/checkout@v4
+      - name: Generate 3D Profile Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
         with:
-          username: ${{ github.repository_owner }}
-          output: output/profile-3d-contrib
+          user: ${{ github.repository_owner }}
+          output: output/profile-3d-contrib.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to Output Branch
-        shell: bash
+      - name: Push SVG to output branch
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "<>"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
-          git fetch origin output
-          git checkout output || git checkout -b output
-          git add output/
-          if ! git diff --staged --quiet; then
-            git commit -m "Update 3D contrib SVG"
-            git push origin output
-          else
-            echo "No changes to commit"
-          fi
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -f output
+          git commit -m "Update 3D contrib graph" || exit 0
+          git push origin HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: always()
