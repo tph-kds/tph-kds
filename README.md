@@ -1,6 +1,6 @@
 <!-- HEADER TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hali-halo! Nice to see you!;Hi+there,+I'm+Trần+Phi+Hùng+👋 Glatichero;AI+Engineer+🤖;Machine+Learning+Specialist+🧠;Welcome+to+my+GitHub!&center=true&width=600&height=50&duration=4000&pause=1000&color=00FF7F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hali-halo!+Nice+to+see+you!;Hi+there,+I%27m+Tr%E1%BA%A7n+Phi+H%C3%B9ng+%F0%9F%91%8B;+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%A7%A0;Welcome+to+my+GitHub!&center=true&width=600&height=50&duration=4000&pause=1000&color=00FF7F" alt="Typing Animation" />
 </div>
 
 <!-- BADGES -->
@@ -35,7 +35,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <h4 align="left">💻 Languages</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -43,28 +43,32 @@
 </p>
 
 <h4 align="left">🧠 AI / ML & Data</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+</p>
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">⚙️ MLOps, Cloud & DevOps</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">🗄️ Tools, Frameworks & Databases</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -75,11 +79,13 @@
 </p>
 
 <h4 align="left">🤖 LLM & AI Agents</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
-  <a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);"></i></a>
+  <a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a>
   <a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a>
   <a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a>
+</p>
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a>
   <a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a>
 </p>
@@ -95,15 +101,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&card_width=400&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tph-kds&show_icons=true&locale=en&layout=compact&card_width=400&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="Top Languages" 
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
+      />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&card_width=400&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tph-kds&show_icons=true&locale=en&card_width=400&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Stats" 
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
+      />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=8B949E&sideNums=8B949E&400&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=CD1076&sideNums=CD1076&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Streak" 
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
+      />
     </td>
   </tr>
 </table>
