@@ -190,7 +190,7 @@
 ![](https://github-immortality.vercel.app/api?username=tph-kds)
 
 
-<img src="https://raw.githubusercontent.com/tph-kds/tph-kds/output/github-profile-3d-contrib.svg" alt="3D Contribution" />
+<img src="https://raw.githubusercontent.com/tph-kds/tph-kds/output/profile-night-rainbow.svg" alt="3D Contribution" />
 
 
 </div>
