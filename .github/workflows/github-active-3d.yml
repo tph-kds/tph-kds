@@ -20,7 +20,6 @@ jobs:
       - name: Generate GitHub Profile 3D Contrib
         uses: yoshi389111/github-profile-3d-contrib@latest
         with:
-          github_user_name: ${{ github.repository_owner }}
           output: |
             output/github-profile-3d-contrib.svg
             output/github-profile-3d-contrib-dark.svg?theme=dark
