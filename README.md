@@ -187,20 +187,24 @@
 <!-- SOCIALS -->
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tran-phi-hung" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://hob2log.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/>
-  </a>
-  <a href="https://tph-kds.github.io/portfolio/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=80528&format=png&color=000000" alt="Portfolio" width="40" height="40"/>
-  </a>
-  <a href="https://x.com/TranPhiHungDS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitterx.png" alt="X" width="40" height="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>  
+      <a href="https://linkedin.com/in/tran-phi-hung" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+      </a>
+      <a href="https://hob2log.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/>
+      </a>
+      <a href="https://tph-kds.github.io/portfolio/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=80528&format=png&color=000000" alt="Portfolio" width="40" height="40"/>
+      </a>
+      <a href="https://x.com/TranPhiHungDS" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/twitterx.png" alt="X" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- HORIZONTAL LINE -->
 <img src="https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png" width="100%" />
