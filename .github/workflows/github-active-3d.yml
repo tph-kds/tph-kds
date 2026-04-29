@@ -27,16 +27,24 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Push to Output Branch
+        shell: bash
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "<>"
-          git add output/
-          if git diff --staged --quiet; then
-            echo "No changes"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
+          git fetch origin output
+          git checkout output || git checkout -b output
+          if ls output/ 2>/dev/null | grep -q .; then
+            git add output/
+            if git diff --staged --quiet; then
+              echo "No new changes"
+            else
+              git commit -m "Update 3D contrib SVG"
+              git push origin output
+            fi
           else
-            git commit -m "Update 3D contrib SVG"
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
-            git push origin output
+            echo "No files in output/, action failed to generate SVG"
+            exit 1
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
