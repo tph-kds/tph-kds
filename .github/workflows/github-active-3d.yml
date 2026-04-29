@@ -20,11 +20,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Generate GitHub Profile 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate GitHub Profile 3d Contrib
+        id: graph
+        uses: yoshi389111/github-profile-3d-contrib@v2
+        with:
+          user: ${{ github.repository_owner }}
+          output: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
 
       - name: Push to Output Branch
         shell: bash
