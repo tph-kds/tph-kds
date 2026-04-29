@@ -115,7 +115,6 @@
 <td><a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a></td>
 <td><a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a></td>
 <td><a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a></td>
-<td><a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a></td>
 <td><a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a></td>
 </tr>
 </table>
