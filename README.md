@@ -8,7 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=tph-kds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8A2BE2" alt="Focus" />
   <img src="https://img.shields.io/badge/Role-AI%20Engineer-2E8B57" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist-FF6B6B" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/Role-ML%20Engineer-4ECDC4" alt="ML Engineer" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen" alt="Open to Collaboration" />
+  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-Me-blueviolet" alt="Connect" /></a>
 </div>
 
 <br/>
@@ -36,20 +39,21 @@
 <!-- TECH STACK -->
 <h2 align="left">🛠️ Tech Stack</h2>
 
+![tech-stack](https://github.com/tph-kds/tph-kds/blob/main/images/techstack.png)
+
 <h4 align="left">💻 Languages</h4>
 
 <table align="left">
 <tr>
 <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-<td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
+<td><a href="https://go.dev/" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Golang" width="80" height="80"/></a></td>
 <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
 <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
 </tr>
 </table>
 
-<br/>
-<br/>
-
+<!-- Get a new line -->
+<div style="clear: both;"></div> 
 
 <h4 align="left">🧠 AI / ML & Data</h4>
 <table align="left">
@@ -61,15 +65,21 @@
 </tr>
 </table>
 
+
 <table align="left">
 <tr>
 <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
 <td><a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
+<td><a href="https://redis.io/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/redis.svg" alt="redis" width="40" height="40"/></a></td>
+<td><a href="https://airflow.apache.org/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/airflow.svg" alt="airflow" width="40" height="40"/></a></td>
+<td><a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/langchain.svg" alt="Langchain" width="40" height="40"/></a></td>
+<td><a href="https://vllm.ai/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/vllm.svg" alt="vLLM" width="40" height="40"/></a></td>
+
 </tr>
 </table>
 
-<br/>
-<br/>
+<!-- Get a new line -->
+<div style="clear: both;"></div> 
 
 <h4 align="left">⚙️ MLOps, Cloud & DevOps</h4>
 <table align="left">
@@ -85,30 +95,29 @@
 <tr>
 <td><a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a></td>
 <td><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></td>
-<td><a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a></td>
-<td><a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a></td>
+<td><a href="https://min.io/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/minio.svg" alt="minio" width="40" height="40"/></a></td>
 </tr>
 </table>
 
-<br/>
-<br/>
-<br/>
+<!-- Get a new line -->
+<div style="clear: both;"></div> 
+
 
 <h4 align="left">🗄️ Tools, Frameworks & Databases</h4>
 <table align="left">
 <tr>
-<td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a></td>
+<td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/flask.svg" alt="flask" width="40" height="40"/></a></td>
+<td><a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/tph-kds/tph-kds/blob/main/images/icons/postgresql.svg" alt="postgres" width="40" height="40"/></a></td>
 <td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
 <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
 <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
 <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
 </tr>
 </table>
 
-<br/>
-<br/>
+<!-- Get a new line -->
+<div style="clear: both;"></div> 
+
 
 
 <h4 align="left">🤖 LLM & AI Agents</h4>
@@ -133,8 +142,9 @@
 <!-- HORIZONTAL LINE -->
 <img src="https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png" width="100%" />
 
-<br/>
-<br/>
+<!-- Get a new line -->
+<div style="clear: both;"></div> 
+
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -168,11 +178,22 @@
 <!-- SNAKE ANIMATION -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tph-kds/tph-kds/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tph-kds/tph-kds/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tph-kds/tph-kds/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+![](https://github-immortality.vercel.app/api?username=tph-kds)
+
+
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/tph-kds/tph-kds/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+
+</div>
 
 <!-- HORIZONTAL LINE -->
 <img src="https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png" width="100%" />
@@ -184,6 +205,8 @@
 <tr>
 <td><a href="https://www.linkedin.com/in/phihungtran/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a></td>
+<td><a href="mailto:tranphihung8383@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="40" height="40"/></a></td>
 <td><a href="https://hob2log.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/></a></td>
 <td><a href="https://tph-kds.github.io/portfolio/" target="_blank">

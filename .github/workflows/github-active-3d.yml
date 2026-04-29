@@ -1,0 +1,31 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate 3D Contrib
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Profile 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
+        with:
+          output: output/github-profile-3d-contrib.svg
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
