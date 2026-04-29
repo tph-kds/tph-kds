@@ -14,7 +14,9 @@
 <br/>
 
 <!-- HORIZONTAL LINE -->
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+</div>
 
 <!-- ABOUT ME -->
 <h2 align="left">🧑‍💻 About Me</h2>
@@ -152,8 +154,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&
-      fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=CD1076&sideNums=CD1076&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Streak" 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&fire=02D892&border_color=02D892&currStreakNum=00EEEE&sideNums=00EEEE&currStreakLabel=00EEEE&sideLabels=CD1076&dates=00EEEE&title_color=00EEEE&text_color=00EEEE&icon_color=02D892" 
+      alt="GitHub Streak" 
       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
       />
     </td>
@@ -180,7 +182,7 @@
 
 <table align="center">
 <tr>
-<td><a href="https://linkedin.com/in/tran-phi-hung" target="_blank">
+<td><a href="https://www.linkedin.com/in/phihungtran/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a></td>
 <td><a href="https://hob2log.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=45507&format=png&color=000000" alt="Blog" width="40" height="40"/></a></td>
@@ -206,5 +208,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
 
-
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+</div>
