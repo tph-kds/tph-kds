@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Generate GitHub Profile 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@v2
         with:
           user: ${{ github.repository_owner }}
           output: output/github-profile-3d-contrib
