@@ -46,6 +46,7 @@
 </table>
 
 <br/>
+<br/>
 
 
 <h4 align="left">🧠 AI / ML & Data</h4>
@@ -57,20 +58,31 @@
 <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
 </tr>
 </table>
+
 <table align="left">
-<tr>
-<td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-<td><a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
-</tr>
+  <tr>
+    <td>
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+    </td>
+  </tr>
 </table>
 
+<br/>
+<br/>
+
 <h4 align="left">⚙️ MLOps, Cloud & DevOps</h4>
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+<table align="left">
+  <tr>
+    <td>  
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
 <p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
@@ -123,7 +135,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=CD1076&sideNums=CD1076&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Streak" 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&
+      fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=CD1076&sideNums=CD1076&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Streak" 
       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
       />
     </td>
