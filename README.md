@@ -83,39 +83,65 @@
   </tr>
 </table>
 
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-  <a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
-</p>
+<table align="left">
+  <tr>
+    <td>  
+      <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
+      <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+      <a href="https://min.io/" target="_blank"><img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="minio" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
 
 <h4 align="left">🗄️ Tools, Frameworks & Databases</h4>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+<table align="left">
+  <tr>
+    <td>  
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
-</p>
+<br/>
+<br/>
+
 
 <h4 align="left">🤖 LLM & AI Agents</h4>
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
-  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
-  <a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a>
-  <a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a>
-  <a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a>
-</p>
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px;">
-  <a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a>
-  <a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a>
-</p>
+<table align="left">
+  <tr>
+    <td>  
+      <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
+      <a href="https://claude.ai/" target="_blank"><i class="fa-brands fa-claude" style="color: rgb(227, 111, 21);" width="40" height="40"></i></a>
+      <a href="https://gemini.google.com/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="gemini" width="40" height="40"/></a>
+      <a href="https://www.deepseek.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" alt="deepseek" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
+
+<table align="left">
+  <tr>
+    <td>  
+      <a href="https://qwenlm.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/141221163?s=48&v=4" alt="qwen" width="40" height="40"/></a>
+      <a href="https://opencode.ai/" target="_blank"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="opencode" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
 
 <!-- HORIZONTAL LINE -->
 <img src="https://github.com/tph-kds/tph-kds/blob/main/images/horizontal_line.png" width="100%" />
 
-
+<br/>
+<br/>
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
