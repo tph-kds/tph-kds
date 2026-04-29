@@ -150,14 +150,15 @@
       />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&
-      fire=02D892&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=CD1076&sideNums=CD1076&border_color=02D892&bg_color=0D1117&title_color=CD1076&text_color=00EEEE&icon_color=02D892" alt="GitHub Streak" 
+<tr>
+  <td colspan="2" align="center">
+    <img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=tph-kds&card_width=800&background=0D1117&stroke=02D892&ring=02D892&fire=02D892&border_color=02D892&currStreakNum=00EEEE&sideNums=00EEEE&currStreakLabel=00EEEE&sideLabels=CD1076&dates=00EEEE&title_color=00EEEE&text_color=00EEEE&icon_color=02D892"
+      alt="GitHub Streak"
       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(3, 170, 142, 0.76);"
-      />
-    </td>
-  </tr>
+    />
+  </td>
+</tr>
 </table>
 
 <!-- HORIZONTAL LINE -->
