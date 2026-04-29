@@ -2,7 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,25 +11,25 @@ permissions:
 
 jobs:
   build:
+    name: Generate 3D Contrib
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate 3D Profile Contribution Graph
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate GitHub Profile 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          wget https://github.com/yoshi389111/github-profile-3d-contrib/releases/latest/download/github-profile-3d-contrib_linux_amd64.tar.gz
-          tar xzf github-profile-3d-contrib_linux_amd64.tar.gz
-          chmod +x github-profile-3d-contrib_linux_amd64
-          mkdir -p output
-          ./github-profile-3d-contrib_linux_amd64 -u ${{ github.repository_owner }} -o output/profile-3d-contrib.svg
-      - name: Push SVG to output branch
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add -f output
-          git commit -m "Update 3D contrib graph" || exit 0
-          git push origin HEAD:output
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        if: always()
