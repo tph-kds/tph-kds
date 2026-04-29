@@ -27,9 +27,15 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          mkdir -p output/profile-3d-contrib
+          cp output/github-profile-3d-contrib.* output/profile-3d-contrib/
+          git add output/
+          git commit -m "Update 3D contrib SVG" || echo "No changes"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
